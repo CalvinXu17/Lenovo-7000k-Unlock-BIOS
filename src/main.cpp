@@ -112,8 +112,8 @@ int main()
 		return 0;
 	}
 	
-	// unlock();
-	readnvram();
+	unlock();
+	// readnvram();
 
 	system("pause");
 	return 0;
