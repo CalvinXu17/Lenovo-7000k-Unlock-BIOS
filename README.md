@@ -1,4 +1,8 @@
-# 联想刃7000k2021-3060版解锁BIOS隐藏选项
+# 联想刃7000k解锁BIOS隐藏选项
+
+经B站网友反馈，此方法同样适用于2022款刃7000k
+
+本人B站视频链接：[联想刃7000k解锁BIOS](https://www.bilibili.com/video/BV1zF411u78C)
 
 <img src="./doc/1.png" style="zoom: 60%;" />
 
